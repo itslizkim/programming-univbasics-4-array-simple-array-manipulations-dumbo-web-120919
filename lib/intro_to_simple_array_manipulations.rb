@@ -68,7 +68,7 @@ def using_flatten(array)
 end
 
 def using_delete (array,string)
-  no_offense_steven = instructors.delete ("Steven")
+  instructors.delete ("Steven")
 end
 
 def using_delete_at (array,element)
